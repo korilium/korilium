@@ -1,7 +1,7 @@
 
 # Hi, I'm a financial planner enthusiast with an actuarial background 
 
-Most of my free time is wasted on how to build better financial planning tools. It has become a hobby and I hope it does not evolve into an obsession. My favorite language is Julia. 
+Most of my time is focused around building better financial planning tools. It has become a hobby. My favorite language is Julia. 
 
 ## Stats 
 
